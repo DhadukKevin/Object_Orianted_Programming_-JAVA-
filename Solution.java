@@ -220,7 +220,7 @@ public class Solution {
                         System.out.println(s1+" "+"00"+x);
                     }
                 }
-                else if(length==14)
+                else if(length==15)
                 {
                     if(x>99)
                     {
