@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class Vowel{
     String a;
-    boolean flag=true;
     int count_a=0,count_e=0,count_i=0,count_o=0,count_u=0;
     Scanner sc=new Scanner(System.in);
 
