@@ -107,8 +107,8 @@ class studentDemo{
 		for(int j=0;j<a;j++){
 			System.out.println("Enter Details Of "+(j+1)+" Student---------------------");
 			s.getDetailOfStudent();
+			s.spi();
 		}
-		s.spi();
 		/*for(int k=0;k<a;k++){
 			System.out.println("Details Of "+(k+1)+" Student---------------------");
 			s.displayStudent();
