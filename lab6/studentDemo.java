@@ -102,6 +102,7 @@ class student{
 class studentDemo{
 	public static void main(String[] args){
 		double a;
+		//enter number of student from command line:
 		a=Double.parseDouble(args[0]);
 		student s=new student();
 		for(int j=0;j<a;j++){
