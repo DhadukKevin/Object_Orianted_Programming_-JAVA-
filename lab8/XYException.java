@@ -1,4 +1,4 @@
-class XYExcepation{
+class XYException{
 	public static void main(String[] args){
 		try{
 			int x=Integer.parseInt(args[0]);
